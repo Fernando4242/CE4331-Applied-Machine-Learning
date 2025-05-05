@@ -1,6 +1,6 @@
 ### **Overview**
 
-This project focuses on training, fine-tuning, pruning, and quantizing a deep learning model for deployment on an **Espressif ESP32** device. The process uses Edge Impulse for model creation, followed by optimization with pruning and quantization, and finally deployment or creation of the C++ Library.
+This project focuses on training, fine-tuning, pruning, and quantizing a deep learning model for deployment on an Espressif ESP32 device. The process uses Edge Impulse for model creation, followed by optimization with pruning and quantization, and finally deployment or creation of the C++ Library. The model is designed to detect and classify five different animal classes: **butterfly, cat, chicken, cow, and dog**.
 
 ### **1. Model Creation and Training**
 
