@@ -1,0 +1,29 @@
+{
+    "classes": [
+        "butterfly",
+        "cat",
+        "chicken",
+        "cow",
+        "dog"
+    ],
+    "mode": "classification",
+    "printHWInfo": false,
+    "inputShapeString": "(160, 160, 3)",
+    "yType": "npy",
+    "trainTestSplit": 0.2,
+    "stratifiedTrainTest": false,
+    "convertInt8": true,
+    "profileInt8": true,
+    "skipEmbeddingsAndMemory": false,
+    "objectDetectionAugmentation": true,
+    "syntiantTarget": false,
+    "maxTrainingTimeSeconds": 1200,
+    "remainingGpuComputeTimeSeconds": null,
+    "isEnterpriseProject": false,
+    "flattenDataset": false,
+    "akidaModel": false,
+    "akidaEdgeModel": false,
+    "skipMemoryProfiling": false,
+    "customValidationSplit": false,
+    "tensorboardLogging": false
+}
